@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Seiba",
+  "author": "Shinuyama",
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",

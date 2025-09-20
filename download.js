@@ -35,6 +35,7 @@ const fs = require('fs');
                 console.log(`[+] Downloading ${facultyName} ${angkatan} => ${image}`);
 
             } else {
+                // Skip Downloading while isn't 200 OK
 
                 console.log(`[-] Skipping ${facultyName} ${angkatan} => ${image}`);
 
